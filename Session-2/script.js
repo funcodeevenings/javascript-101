@@ -1,4 +1,5 @@
 console.log("Session 2");
+
 p1 = document.getElementById("p1");
 p1.innerHTML="updated p1"
 
@@ -11,20 +12,33 @@ p3.innerHTML="updated p3"
 // Datatypes - boolean, numbers, strings, objects
 
 
+
 // Arithmatic operators +, -, *, /, **, %, ++, --
 
-// Assignment-1
+// WAS to concatenate your first name and last name with space in between.
+
+a = "Shubham "
+b = "Pandey"
+
+c= a+b
+console.log("Assignment-1",c)
 
 
-// Assignment-2
+// WAS to print 5th power of 15.
 
 
-// Assignment-3
+// WAS to print remainder when 22 is divided by 7
 
 
-// Assignment-4
+
+// Assign a variable with value 5 and post increment it thrice, print its value every time
+
+a=5
+a++
+console.log("Assignment-5",a)
 
 
-// Assignment-5
+
+// Pre increment the same variable thrice and print its value
 
 
